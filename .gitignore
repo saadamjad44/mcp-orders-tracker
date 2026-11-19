@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+# credentials never go to GitHub
+data/creds.json
+data/*credentials*.json
+# generated data — recreate with: python scripts/generate_data.py
+data/orders.csv

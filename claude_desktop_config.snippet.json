@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ahmed-garments-orders": {
+      "command": "D:\\MCP-14\\venv\\Scripts\\python.exe",
+      "args": ["D:\\MCP-14\\day01-orders\\server.py"]
+    }
+  }
+}
